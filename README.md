@@ -1,2 +1,4 @@
 # PSExecute
 Archive of Playstation related executables 
+
+This repo is to archive the executables created in the freeware playstation community. For whatever reason freeware devs choose to use free filehosting services and the links always go bad after some time, or the download link is hidden behind the wall of some platform like a forum or twitter. So this repo was born out of accessibility, annoyance, and archival purposes, I hope this saves a lot of people a lot of time and in the future devs can just learn how to use git an this is unnecessary. If you really care about game preservation then you need to also preserve the software around the console that that plays those games, STOP DOING THIS FREEWARE NOISE NOW! All you are doing is hurting the accessibility, the end user and game preservation as a whole. Please PR any executables you have as most download links to projects will probably be dead. 
