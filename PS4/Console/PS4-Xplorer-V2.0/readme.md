@@ -1,4 +1,4 @@
-# PSLAN
+# PS4-Xplorer-V2.0
 
 Original project location: psx-place https://www.psx-place.com/threads/ps4-xplorer-v2-0-by-lapy-massive-overhaul-of-this-file-manager-with-v2-0.38237/  
 Release: 2.03  
